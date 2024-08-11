@@ -25,7 +25,7 @@ import AddBox from '@mui/icons-material/AddBox';
               <Button>
               <Link
                   style={{ textDecoration: "none", color: "white" }}
-                  to={"/add"}
+                  to={"/"}
                 >
               <Stack direction="row" spacing={3}>
                 <HomeIcon />
