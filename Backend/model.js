@@ -6,6 +6,6 @@ const schema = mongoose.Schema({
   content2: String,
   img_url: String,
 });
-const BlogData = mongoose.model('blog', schema);
+const BlogData = mongoose.model('employee', schema);
 module.exports = BlogData;
 //Write missing codes here
